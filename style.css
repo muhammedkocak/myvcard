@@ -1,0 +1,152 @@
+body {
+    padding-top: 100px;
+   
+
+
+}
+
+.grid-container {
+    border: 1px solid black;
+    
+}
+
+.grid1 {
+    background-color: white;
+
+}
+
+.grid1_links {
+
+} 
+
+.links_boven {
+    background-color:rgb(9, 39, 91);
+}
+
+.links_onder {
+background-image: linear-gradient(to bottom, rgb(9, 39, 91), white);
+
+}
+
+.image {
+   
+    background-image: url(pasfoto.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.imagename {
+    font-size: 25px;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: -20px;
+}
+
+.imagefunction {
+    font-size: 15px;
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: -10px;
+
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.menuLinks {
+    border-top: 1px solid black;
+}
+
+.menuInfo {
+    font-size: 19px;
+    margin-left: 50px;
+
+
+}
+
+.menuLink {
+    text-decoration: none;
+    color: black;
+
+
+
+}
+.links_onder {
+
+background-color: orange;
+}
+
+.grid1_rechts {
+    background-color: white;
+
+}
+
+.headername {
+font-size: 5vw;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+margin-top: -10px;
+color: rgb(46, 45, 45)
+
+}
+
+.imagefunction2 {
+    margin-top: -95px;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 13px;
+
+
+}
+
+.personal__subtitle {
+    margin-left: 50px;
+    margin-top: -10px;
+    font-weight: lighter;
+}
+
+.personal__info {
+    margin-left: 100px;
+    font-size: 17px
+    
+    
+    
+    
+
+}
+
+.iconi {
+    margin-right: 150px;
+    color: rgb(9, 39, 91);
+
+}
+
+
+
+.grid2 {
+    background-color: yellow;
+
+}
+
+.footerInfo {
+    margin-top: 30px;
+
+    letter-spacing: 2px;
+    text-align: center;
+    margin-left: 204px;
+    background-color: white;
+    font-size: 10px;
+   
+  }
+
+  .icons {
+      color: rgb(9, 39, 91);
+  }
